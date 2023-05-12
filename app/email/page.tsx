@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 
-const email = () => {
+const Email = () => {
   const data = [
     { id: 1, name: "admin", mail: "admin@gmail.com" },
     { id: 2, name: "hotstar", mail: "hotstar@gmail.com" },
@@ -53,4 +53,4 @@ const email = () => {
   );
 };
 
-export default email;
+export default Email;
