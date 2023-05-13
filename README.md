@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 deployed here (https://next13-ts-tailwind.vercel.app/)
+
 tech blog (https://medium.com/@Anilpandiya05/a-beginners-guide-to-getting-started-with-next-js-13-typescript-tailwind-and-eslint-6f84f940764d)
 
 ## Getting Started
